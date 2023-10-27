@@ -2,3 +2,7 @@ iterm2/
 .DS_Store
 github-copilot/
 nvim/pack/github/start/copilot.vim/
+simple-update-notifier/
+yarn/
+gcloud/
+configstore/
